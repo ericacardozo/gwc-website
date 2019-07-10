@@ -5,3 +5,9 @@ function changeImage()
 document.images["jsbutton"].src= "https://hulahunnie.files.wordpress.com/2016/08/contact-me-button.png";
 return true;
 }
+
+<script>
+  function myFunction() {
+    document.getElementById("demo").style.color = "red";
+  }
+  </script>
